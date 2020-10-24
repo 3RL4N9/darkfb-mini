@@ -5,9 +5,9 @@ Login Token aja biar aman
 
 pkg install python2 git
 
-git clone https://github.com/3R4N9/darkfb-mini.git
+git clone https://github.com/3RL4N9/darkfb-mini.git
 
-#run
+# run
 
 cd darkfb-mini
 
